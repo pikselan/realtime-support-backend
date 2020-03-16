@@ -8,4 +8,3 @@ Realtime Chat for Support with React, Golang, RethinkDB (BackEnd)
 
 ## build package
 - "go build"
-- app in directory bin (GOPATH) open using terminal
